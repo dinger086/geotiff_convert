@@ -1,0 +1,13 @@
+[package]
+name = "world_image"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+image = "0.24.7"
+dbase = "0.4.0"
+tiff = "0.9.0"
+tqdm = "0.5.2"
+rayon = "1.8.0"
